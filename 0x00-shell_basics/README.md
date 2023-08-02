@@ -16,5 +16,7 @@
 #
 **8-firstdelete** - THis script will delete the file betty from /tmp/my_first_directory.
 #
-**9-firstdirdeletion** - THis Scipt will delete the my_first_directory in /tmp/.
+**9-firstdirdeletion** - THis Script will delete the my_first_directory in /tmp/.
+#
+**10-back** - THis script navigates back to the previous directory.
 #
