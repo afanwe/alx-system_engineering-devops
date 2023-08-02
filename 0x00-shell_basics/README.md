@@ -6,3 +6,7 @@
 #
 **3-listfiles** - This script displays the contents of the current directory in long format.
 #
+**4-listmorefiles** - This script displays current directory contents, including hidden files (starting with .). Use the long format.
+#
+**5-listfilesdigitonly** - This script will display current directory contents in long format, with user and groud IDs numerically and hidden files starting with (.).
+#
