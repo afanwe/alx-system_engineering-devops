@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-ALX 0x00. Shell, basics tasks
+This repository contains all the files for ALX 0x00 Shell, Basics
