@@ -14,3 +14,7 @@
 #
 **7-movethatfile** - THis script moves betty file to /tmp/my_first_directory from tmp directory.
 #
+**8-firstdelete** - THis script will delete the file betty from /tmp/my_first_directory.
+#
+**9-firstdirdeletion** - THis Scipt will delete the my_first_directory in /tmp/.
+#
