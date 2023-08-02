@@ -10,3 +10,7 @@
 #
 **5-listfilesdigitonly** - This script will display current directory contents in long format, with user and groud IDs numerically and hidden files starting with (.).
 #
+**6-firstdirectory** - This script creates the my_first_directory inside the tmp directory.
+#
+**7-movethatfile** - THis script moves betty file to /tmp/my_first_directory from tmp directory.
+#
