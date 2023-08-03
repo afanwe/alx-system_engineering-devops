@@ -40,4 +40,6 @@
 	* Files and directories starting with a dot (.) should be listed
 	* The listing should be alpha ordered, except for the directories . and .. which should be li	       sted at the very beginning
 	* Only digits and letters are used to sort; Digits should come first
-
+#
+**school.mgc** - THis magic file an be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
+#
